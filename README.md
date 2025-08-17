@@ -89,7 +89,7 @@
   <a href="https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
-  <a href="https://github.com/RavinduWanasinghe0524/your-project-2">
+  <a href="https://github.com/RavinduWanasinghe0524/car-racing-game.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=your-project-2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 </div>
