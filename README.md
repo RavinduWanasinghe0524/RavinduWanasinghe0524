@@ -12,7 +12,7 @@
 
 ## 🧑‍💼 About Me
 
-🎓 **Information Systems Student** passionate about coding, problem-solving, and developing innovative solutions  
+🎓 **Information Systems Student** in Sabaragamuwa University of Sri Lanka passionate about coding, problem-solving, and developing innovative solutions  
 💻 Exploring the intersection of **technology and business**  
 🌱 Currently learning and expanding my skills in **Full Stack Development**  
 🚀 Always eager to take on new challenges and learn cutting-edge technologies
@@ -86,7 +86,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/RavinduWanasinghe0524/your-project-1">
+  <a href="https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/RavinduWanasinghe0524/your-project-2">
