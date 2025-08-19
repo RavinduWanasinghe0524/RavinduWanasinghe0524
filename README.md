@@ -89,7 +89,7 @@
   <a href="https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend.git">
     <img src="2.png" />
   </a>
-  <a href="https://github.com/RavinduWanasinghe0524/car-racing-game.git">
+  <a href="https://github.com/RavinduWanasinghe0524/Elite-Wheels.git">
     <img src="1.png" />
   </a>
 </div>
