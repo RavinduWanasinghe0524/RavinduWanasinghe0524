@@ -87,10 +87,19 @@
 
 <div align="center">
   <a href="https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend.git">
-    <img src="2.png" />
+    <img height="200" src="2.png" alt="Royal Mushrooms" />
   </a>
   <a href="https://github.com/RavinduWanasinghe0524/Elite-Wheels.git">
-    <img src="1.png" />
+    <img height="200" src="1.png" alt="Elite Wheels" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RavinduWanasinghe0524/V-Mas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V-Mas&theme=tokyonight&hide_border=true" alt="V-Mas" />
+  </a>
+  <a href="https://github.com/RavinduWanasinghe0524/IronLogix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=IronLogix&theme=tokyonight&hide_border=true" alt="IronLogix" />
   </a>
 </div>
 
@@ -110,9 +119,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ravindu-wanasinghe-b08a50315/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-wanasinghe-b08a50315/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinduwanasinghe97@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavinduWanasinghe0524)
 
 </div>
