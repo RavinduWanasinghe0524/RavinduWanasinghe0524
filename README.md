@@ -6,9 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=🎓+Information+Systems+Student+%40+SUSL;💻+Full-Stack+Developer+(Java+%2F+TypeScript+%2F+Python);🔍+Digital+Forensics+%26+Cybersecurity+Enthusiast;🚀+Open-Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Information+Systems+Student+%40+SUSL;Full-Stack+Developer+(Java+%2F+TypeScript+%2F+Python);Digital+Forensics+%26+Cybersecurity+Enthusiast;Open-Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -77,16 +75,16 @@
 <h3 align="left">🔥 GitHub Analytics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=RavinduWanasinghe0524&theme=transparent&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=00000000&dates=c9d1d9&sideLabels=c9d1d9&currStreakLabel=00BFFF" alt="Ravindu's Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&bg_color=00000000&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=RavinduWanasinghe0524&theme=dark&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Ravindu's Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&bg_color=00000000&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduWanasinghe0524&bg_color=00000000&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true&area=true&area_color=00BFFF" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduWanasinghe0524&bg_color=161b22&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true&area=true&area_color=1c6fa020" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
