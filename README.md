@@ -106,33 +106,16 @@
 <h3 align="center">🔥 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=RavinduWanasinghe0524&theme=dark&hide_border=true&background=00000000&ring=00BFFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Ravindu's Streak" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&bg_color=0d1117&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=RavinduWanasinghe0524&theme=dark&hide_border=true&background=0d1117&ring=00BFFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Ravindu's Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&bg_color=0d1117&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduWanasinghe0524&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true&area=true&area_color=004080" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-<!-- ══════════════════════════════════════════════════════════
-     SNAKE CONTRIBUTION ANIMATION
-     Note: Enable this by adding the snake GitHub Action workflow
-     to your profile repo (.github/workflows/snake.yml)
-═══════════════════════════════════════════════════════════ -->
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavinduWanasinghe0524/RavinduWanasinghe0524/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavinduWanasinghe0524/RavinduWanasinghe0524/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/RavinduWanasinghe0524/RavinduWanasinghe0524/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
 </p>
 
 ---
@@ -146,13 +129,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/TrueTrace">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&bg_color=0d1117&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🔍 A multimodal digital forensic tool detecting document enhancements via ELA, Noise Variance, and Metadata inspection.</em>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/RavinduWanasinghe0524/V-Mas">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V-Mas&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+      <a href="https://github.com/RavinduWanasinghe0524/V---Mas">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V---Mas&bg_color=0d1117&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🚗 An advanced vehicle management and service platform built with a robust Java &amp; Spring Boot backend.</em>
     </td>
@@ -160,13 +143,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/Elite-wheels-next">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Elite-wheels-next&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Elite-wheels-next&bg_color=0d1117&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🏎️ A full-stack Next.js / TypeScript powered e-commerce vehicle storefront.</em>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/Zen-">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Zen-&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Zen-&bg_color=0d1117&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🧘 A minimalist Python-driven productivity and scripting utility block.</em>
     </td>
