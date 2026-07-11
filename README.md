@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&height=60&lines=Information+Systems+Student+%40+SUSL;Full-Stack+Developer+(Java+%2F+TypeScript+%2F+Python);Digital+Forensics+%26+Cybersecurity+Enthusiast;Open-Source+Contributor+%26+Lifelong+Learner;Building+TrueTrace+—+Multimodal+Forensic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&height=60&lines=Information+Systems+Student+%40+SUSL;Full-Stack+Developer+(Java+%2F+TypeScript+%2F+Python);Digital+Forensics+%26+Cybersecurity+Enthusiast;Open-Source+Contributor+%26+Lifelong+Learner;Building+TrueTrace+%E2%80%94+Multimodal+Forensic+AI" alt="Typing SVG" />
 
 </div>
 
@@ -106,12 +106,12 @@
 <h3 align="center">🔥 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Ravindu's GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=RavinduWanasinghe0524&theme=dark&hide_border=true&background=00000000&ring=00BFFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Ravindu's Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="50%"/>
 </p>
 
 <p align="center">
@@ -146,13 +146,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/TrueTrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🔍 A multimodal digital forensic tool detecting document enhancements via ELA, Noise Variance, and Metadata inspection.</em>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/V-Mas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V-Mas&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V-Mas&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🚗 An advanced vehicle management and service platform built with a robust Java &amp; Spring Boot backend.</em>
     </td>
@@ -160,13 +160,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/Elite-wheels-next">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Elite-wheels-next&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Elite-wheels-next&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🏎️ A full-stack Next.js / TypeScript powered e-commerce vehicle storefront.</em>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/RavinduWanasinghe0524/Zen-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Zen-&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Zen-&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF" width="100%" />
       </a>
       <em>🧘 A minimalist Python-driven productivity and scripting utility block.</em>
     </td>
