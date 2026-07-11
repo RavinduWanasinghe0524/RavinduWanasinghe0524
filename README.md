@@ -90,17 +90,6 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════
-     GITHUB TROPHIES
-═══════════════════════════════════════════════════════════ -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavinduWanasinghe0524&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
----
-
-<!-- ══════════════════════════════════════════════════════════
      GITHUB ANALYTICS
 ═══════════════════════════════════════════════════════════ -->
 <h3 align="center">🔥 GitHub Analytics</h3>
