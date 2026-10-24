@@ -78,19 +78,25 @@
 
 ## 🤖 Prompt Engineering & AI / ML
 
-> Passionate about building **LLM-powered applications** — from precision prompt design and RAG architectures to deploying AI into full-stack products.
+<p align="center"><em>Passionate about building <strong>LLM-powered applications</strong> — from precision prompt design and RAG architectures to deploying AI into full-stack products.</em></p>
 
-| Area | Tools & Concepts |
-|---|---|
+<div align="center">
+
+| Area | Tools &amp; Concepts |
+|:---|:---|
 | **LLM Platforms** | OpenAI GPT-4o · Google Gemini · Anthropic Claude · Mistral · Llama 3 |
 | **Prompt Engineering** | Chain-of-Thought · Few-Shot · System Prompts · RAG · Tool Use · ReAct |
 | **AI Frameworks** | LangChain · LlamaIndex · HuggingFace Transformers · Ollama |
 | **ML & Data** | scikit-learn · Pandas · NumPy · NLP Pipelines · ELA / CV Forensics |
 | **AI in Full-Stack** | LLM REST APIs · Streaming · Function Calling · AI Agents |
 
-<div align="center">
+<br/>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Chain_of_Thought_%7C_RAG_%7C_Agents-38BDF8?style=for-the-badge&logo=openai&logoColor=white)
+![Chain of Thought](https://img.shields.io/badge/Chain--of--Thought-0d1117?style=flat-square&logo=openai&logoColor=38BDF8&labelColor=0d1117&color=38BDF8)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=langchain&logoColor=6DB33F&labelColor=0d1117&color=6DB33F)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=openai&logoColor=FF6B6B&labelColor=0d1117&color=FF6B6B)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0d1117&color=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=0d1117&color=1C3C3C)
 
 </div>
 
