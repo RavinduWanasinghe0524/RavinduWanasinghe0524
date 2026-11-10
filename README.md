@@ -98,12 +98,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RavinduWanasinghe0524&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=RavinduWanasinghe0524&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RavinduWanasinghe0524&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWanasinghe0524&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="50%" alt="Top Languages" />
+<p><a href="https://github.com/RavinduWanasinghe0524">View my contributions and repositories on GitHub</a></p>
 
 </div>
 
@@ -120,25 +117,14 @@
 
 ## 🚀 Featured Projects
 
-[![TrueTrace](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/TrueTrace)
-[![V-MAS](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V---Mas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/V---Mas)
-
-[![Elite Wheels Next](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Elite-wheels-next&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/Elite-wheels-next)
-[![Royal Mushrooms](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=royal-mushrooms-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend)
-
-[![ShadowSense](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=ShadowSense-2026-Aurora&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/ShadowSense-2026-Aurora)
-[![Gambix](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Gambix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/Gambix)
-
-### Project Highlights
-
 | Project | Stack | What it does |
 |---|---|---|
-| **TrueTrace** | Python · FastAPI · OpenCV | Multi-modal forensic tool — ELA, Noise Variance & Metadata forgery detection |
-| **V-MAS** | Spring Boot · React · MySQL | Fleet management — vehicle records, dispatch, reporting & RBAC |
-| **Elite Wheels Next** | Next.js · TypeScript · Tailwind | Premium car-rental platform with modern UI & booking flows |
-| **Royal Mushrooms** | React · Firebase · CSS3 | E-commerce storefront with cart, catalog & authentication |
-| **ShadowSense Aurora** | Python · NLP | AI scam detector for freelance job listings & messages |
-| **Gambix** | JavaScript · Stockfish | Chess move explanations grounded in engine analysis |
+| [**TrueTrace**](https://github.com/RavinduWanasinghe0524/TrueTrace) | Python · FastAPI · OpenCV | Multi-modal forensic tool — ELA, Noise Variance & Metadata forgery detection |
+| [**V-MAS**](https://github.com/RavinduWanasinghe0524/V---Mas) | Spring Boot · React · MySQL | Fleet management — vehicle records, dispatch, reporting & RBAC |
+| [**Elite Wheels Next**](https://github.com/RavinduWanasinghe0524/Elite-wheels-next) | Next.js · TypeScript · Tailwind | Premium car-rental platform with modern UI & booking flows |
+| [**Royal Mushrooms**](https://github.com/RavinduWanasinghe0524/royal-mushrooms-frontend) | React · Firebase · CSS3 | E-commerce storefront with cart, catalog & authentication |
+| [**ShadowSense Aurora**](https://github.com/RavinduWanasinghe0524/ShadowSense-2026-Aurora) | Python · NLP | AI scam detector for freelance job listings & messages |
+| [**Gambix**](https://github.com/RavinduWanasinghe0524/Gambix) | JavaScript · Stockfish | Chess move explanations grounded in engine analysis |
 
 ---
 
