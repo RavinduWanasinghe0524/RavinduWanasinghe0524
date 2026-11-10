@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077CC?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ravinduwanasinghe0524.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-wanasinghe/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavinduWanasinghe0524)
+<a href="https://ravinduwanasinghe0524.github.io/"><img src="https://img.shields.io/badge/Portfolio-0077CC?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ravindu-wanasinghe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/RavinduWanasinghe0524"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=RavinduWanasinghe0524&label=Profile+Views&color=0077cc&style=flat-square" alt="profile views" />
 
@@ -33,8 +33,6 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-<div align="center">
 
 **Languages**
 
@@ -72,15 +70,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</div>
-
 ---
 
 ## 🤖 Prompt Engineering & AI / ML
 
 <p align="center"><em>Passionate about building <strong>LLM-powered applications</strong> — from precision prompt design and RAG architectures to deploying AI into full-stack products.</em></p>
-
-<div align="center">
 
 | Area | Tools &amp; Concepts |
 |:---|:---|
@@ -97,8 +91,6 @@
 ![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=openai&logoColor=FF6B6B&labelColor=0d1117&color=FF6B6B)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0d1117&color=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=0d1117&color=1C3C3C)
-
-</div>
 
 ---
 
@@ -117,9 +109,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌳 GitHub Garden
 
-<div align="center">
+<p align="center">
+  <img src="output/bonsai.gif" width="384" alt="Pixel art bonsai grown from my GitHub activity" />
+  <img src="koi/koi.gif" width="256" alt="Pixel art koi inspired by my GitHub activity" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 [![TrueTrace](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=TrueTrace&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/TrueTrace)
 [![V-MAS](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=V---Mas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/V---Mas)
@@ -129,8 +128,6 @@
 
 [![ShadowSense](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=ShadowSense-2026-Aurora&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/ShadowSense-2026-Aurora)
 [![Gambix](https://github-readme-stats.vercel.app/api/pin/?username=RavinduWanasinghe0524&repo=Gambix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8)](https://github.com/RavinduWanasinghe0524/Gambix)
-
-</div>
 
 ### Project Highlights
 
@@ -168,9 +165,9 @@ Reach out — let's build something great together.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-wanasinghe/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0077CC?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ravinduwanasinghe0524.github.io/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavinduWanasinghe0524)
+<a href="https://www.linkedin.com/in/ravindu-wanasinghe/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://ravinduwanasinghe0524.github.io/"><img src="https://img.shields.io/badge/Visit_Portfolio-0077CC?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://github.com/RavinduWanasinghe0524"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" /></a>
 
 <br/>
 

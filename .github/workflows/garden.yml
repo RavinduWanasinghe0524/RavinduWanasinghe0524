@@ -1,0 +1,39 @@
+name: GitHub Garden
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/garden.yml
+
+permissions:
+  contents: write
+
+concurrency: garden
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: egorthinks/git-bonsai@v1
+        with:
+          commit: false
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: white
+          output-dir: koi
+      - name: Commit the garden if it changed
+        shell: bash
+        run: |
+          git add output/bonsai.gif koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "The garden is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "chore: refresh GitHub garden"
+          git push --quiet
